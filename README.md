@@ -3,6 +3,6 @@
 ![example workflow](https://github.com/S2Mackinley/nodeAWS/actions/workflows/node.js.yml/badge.svg)
 
 
-[AWS](http://awspractice-env.eba-8fztzpkq.us-east-2.elasticbeanstalk.com/)
+[AWS](http://nodeservertest-env.eba-mfwetemm.us-west-2.elasticbeanstalk.com/)
 
 [Terminal deployment](something.com)
